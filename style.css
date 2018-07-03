@@ -1,0 +1,19 @@
+body { 
+    margin:0; 
+} 
+
+header
+{
+    background-color:green;
+    color:white;
+    padding:10px;
+}
+
+
+@media (max-width:450px) {
+    
+    header
+    {
+        background-color: blue;
+    }
+}
